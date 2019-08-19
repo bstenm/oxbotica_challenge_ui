@@ -17,7 +17,7 @@ Uses custom linting and prettier for code formatting, and githooks on top of [Cr
 4. install dependecies
 
 -   using yarn:
-    > yarn start
+    > yarn
 -   or with npm:
     > npm install
 
