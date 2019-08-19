@@ -1,8 +1,6 @@
 **Can be very slow if requesting over 10 000 datapoints in a single api call**
 
-[Oxbotica Challenge UI](https://github.com/bstenm/oxbotica_challenge_ui) built with [React](https://reactjs.org/) and [Redux](https://redux.js.org/) for state management.
-
-Uses custom linting and prettier for code formatting, and githooks on top of [Create React App](https://github.com/facebook/create-react-app)
+[Oxbotica Challenge UI](https://github.com/bstenm/oxbotica_challenge_ui) built with [React](https://reactjs.org/) and [Redux](https://redux.js.org/) for state management. Also uses custom linting, prettier for code formatting, and githooks on top of [Create React App](https://github.com/facebook/create-react-app)
 
 #### Run it
 
