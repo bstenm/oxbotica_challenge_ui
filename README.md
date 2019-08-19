@@ -4,22 +4,24 @@ Uses custom linting and prettier for code formatting, and githooks on top of [Cr
 
 #### Run it
 
-1. clone the repository
+1. refer to [Oxbotica Challenge Api](https://github.com/bstenm/oxbotica_challenge_api) to get the api running
+
+2. clone this repository
 
     > git clone git@github.com:bstenm/oxbotica_challenge_ui.git
 
-2. cd into the repository
+3. cd into the repository
 
     > cd oxbotica_challenge_ui
 
-3. install dependecies
+4. install dependecies
 
 -   using yarn:
     > yarn start
 -   or with npm:
     > npm install
 
-4. run it in development mode
+5. run it in development mode
     > yarn start
 
 #### Githook
@@ -44,6 +46,5 @@ Builds the app for production to the `build` folder.<br>
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
 The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.

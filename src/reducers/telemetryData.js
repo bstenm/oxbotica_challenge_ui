@@ -17,7 +17,7 @@ export default (state = initialState, { type, payload }) => {
 
     let telemetryData = clone(initialState);
 
-    payload.data.slice(1000, 2000).forEach(entry => {
+    payload.data.forEach(entry => {
         // get relevant data into 3 arrays: autonomy_state, speed, timestamp
         telemetryData = mergeWith(
             telemetryData,
