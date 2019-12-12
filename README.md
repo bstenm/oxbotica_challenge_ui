@@ -1,28 +1,6 @@
-**Can be very slow if requesting over 10 000 datapoints in a single api call**
+Playing with [React Charts](https://github.com/jerairrest/react-chartjs-2).
 
-[Oxbotica Challenge UI](https://github.com/bstenm/oxbotica_challenge_ui) built with [React](https://reactjs.org/) and [Redux](https://redux.js.org/) for state management. Also uses custom linting, prettier for code formatting, and githooks on top of [Create React App](https://github.com/facebook/create-react-app).
-
-#### Run it
-
-1. get the corresponding api running: refer to [Oxbotica Challenge Api](https://github.com/bstenm/oxbotica_challenge_api)
-
-2. clone this repository
-
-    > git clone git@github.com:bstenm/oxbotica_challenge_ui.git
-
-3. cd into the repository
-
-    > cd oxbotica_challenge_ui
-
-4. install dependecies
-
--   using yarn:
-    > yarn
--   or with npm:
-    > npm install
-
-5. run it in development mode
-    > yarn start
+Built with [React](https://reactjs.org/) and [Redux](https://redux.js.org/) for state management. Also uses custom linting, prettier for code formatting, and githooks on top of [Create React App](https://github.com/facebook/create-react-app).
 
 #### Githook
 
